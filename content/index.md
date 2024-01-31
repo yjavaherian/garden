@@ -1,6 +1,10 @@
 ---
 title: Welcome to Quartz
+date: 2024-01-29
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi Dear visitors 👋👋.
+This blog is my first attempt at something I have wanted to do for a very long time.
+Today I ate the frog 🐸.
+
+- []
